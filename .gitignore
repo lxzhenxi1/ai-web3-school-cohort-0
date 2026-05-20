@@ -1,0 +1,15 @@
+# 环境文件
+.env
+.env.*
+
+# OS 文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 笔记缓存
+*.bak
